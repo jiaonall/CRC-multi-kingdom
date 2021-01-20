@@ -1,0 +1,408 @@
+"","corr","edges","pval","fdr"
+"1",0.717986112547,"Bifidobacterium adolescentis_Bifidobacterium angulatum",0,0
+"2",0.540027329413,"Bifidobacterium adolescentis_Bifidobacterium catenulatum",0,0
+"3",0.703916351715,"Bifidobacterium angulatum_Bifidobacterium catenulatum",0,0
+"4",0.545764561993,"Bifidobacterium breve_Bifidobacterium catenulatum",0,0
+"5",0.656917346481,"Bifidobacterium breve_Bifidobacterium longum",0,0
+"6",0.50029655098,"Bifidobacterium catenulatum_Bifidobacterium longum",0,0
+"7",0.556937967392,"Bifidobacterium angulatum_Bifidobacterium pseudocatenulatum",0,0
+"8",0.508872357704,"Bifidobacterium breve_Bifidobacterium pseudocatenulatum",0,0
+"9",0.797343645762,"Bifidobacterium catenulatum_Bifidobacterium pseudocatenulatum",0,0
+"10",0.523101166763,"Bacteroides fragilis_Bacteroides thetaiotaomicron",0,0
+"11",0.528112350535,"Bacteroides thetaiotaomicron_Butyricimonas faecalis",0,0
+"12",0.593992480516,"Butyricimonas faecalis_Odoribacter splanchnicus",0,0
+"13",0.611870591547,"Butyricimonas faecalis_Porphyromonas crevioricanis",0,0
+"14",0.552329202993,"Porphyromonas asaccharolytica_Porphyromonas crevioricanis",0,0
+"15",0.568659108143,"Porphyromonas asaccharolytica_Porphyromonas gingivalis",0,0
+"16",0.803025150132,"Porphyromonas crevioricanis_Porphyromonas gingivalis",0,0
+"17",0.68330962126,"Porphyromonas crevioricanis_Prevotella intermedia",0,0
+"18",0.689711737313,"Porphyromonas gingivalis_Prevotella intermedia",0,0
+"19",0.679926267283,"Porphyromonas crevioricanis_Prevotella scopos",0,0
+"20",0.601722746054,"Porphyromonas gingivalis_Prevotella scopos",0,0
+"21",0.739991775657,"Prevotella intermedia_Prevotella scopos",0,0
+"22",0.520814422715,"Butyricimonas faecalis_Alistipes finegoldii",0,0
+"23",0.664365818021,"Alistipes dispar_Alistipes finegoldii",0,0
+"24",0.558074576989,"Butyricimonas faecalis_Alistipes megaguti",0,0
+"25",0.540349135315,"Odoribacter splanchnicus_Alistipes megaguti",0,0
+"26",0.604144075432,"Porphyromonas crevioricanis_Alistipes megaguti",0,0
+"27",0.563290426426,"Porphyromonas gingivalis_Alistipes megaguti",0,0
+"28",0.560952091915,"Prevotella intermedia_Alistipes megaguti",0,0
+"29",0.55785613881,"Prevotella scopos_Alistipes megaguti",0,0
+"30",0.59594241276,"Alistipes dispar_Alistipes megaguti",0,0
+"31",0.598726521816,"Alistipes dispar_Alistipes onderdonkii",0,0
+"32",0.651929174473,"Alistipes finegoldii_Alistipes onderdonkii",0,0
+"33",0.570465832468,"Butyricimonas faecalis_Alistipes shahii",0,0
+"34",0.554541194989,"Odoribacter splanchnicus_Alistipes shahii",0,0
+"35",0.756121224909,"Alistipes dispar_Alistipes shahii",0,0
+"36",0.681094020504,"Alistipes finegoldii_Alistipes shahii",0,0
+"37",0.540115715047,"Alistipes megaguti_Alistipes shahii",0,0
+"38",0.638134142827,"Alistipes onderdonkii_Alistipes shahii",0,0
+"39",0.637537341818,"Bacteroides thetaiotaomicron_Parabacteroides distasonis",0,0
+"40",0.525368207546,"Alistipes finegoldii_Parabacteroides distasonis",0,0
+"41",0.540961548872,"Bacteroides thetaiotaomicron_Parabacteroides sp. CT06",0,0
+"42",0.526677534623,"Parabacteroides distasonis_Parabacteroides sp. CT06",0,0
+"43",0.57934952309,"Streptococcus anginosus_Streptococcus oralis",0,0
+"44",0.876232039068,"Streptococcus equinus_Streptococcus salivarius",0,0
+"45",0.887041288515,"Streptococcus equinus_Streptococcus sp. FDAARGOS_192",0,0
+"46",0.959884797717,"Streptococcus salivarius_Streptococcus sp. FDAARGOS_192",0,0
+"47",0.851980693746,"Clostridium argentinense_Clostridium beijerinckii",0,0
+"48",0.75488739557,"Clostridium argentinense_Clostridium bornimense",0,0
+"49",0.772689967422,"Clostridium beijerinckii_Clostridium bornimense",0,0
+"50",0.890207709586,"Clostridium argentinense_Clostridium botulinum",0,0
+"51",0.888310411003,"Clostridium beijerinckii_Clostridium botulinum",0,0
+"52",0.813384837271,"Clostridium bornimense_Clostridium botulinum",0,0
+"53",0.831707025566,"Clostridium argentinense_Clostridium butyricum",0,0
+"54",0.885271242803,"Clostridium beijerinckii_Clostridium butyricum",0,0
+"55",0.748723575053,"Clostridium bornimense_Clostridium butyricum",0,0
+"56",0.935231127444,"Clostridium botulinum_Clostridium butyricum",0,0
+"57",0.709725121407,"Clostridium argentinense_Clostridium cellulovorans",0,0
+"58",0.791925283139,"Clostridium beijerinckii_Clostridium cellulovorans",0,0
+"59",0.751180792303,"Clostridium bornimense_Clostridium cellulovorans",0,0
+"60",0.831063033403,"Clostridium botulinum_Clostridium cellulovorans",0,0
+"61",0.808587609745,"Clostridium butyricum_Clostridium cellulovorans",0,0
+"62",0.797394608259,"Clostridium argentinense_Clostridium chauvoei",0,0
+"63",0.7833547067,"Clostridium beijerinckii_Clostridium chauvoei",0,0
+"64",0.757611805733,"Clostridium bornimense_Clostridium chauvoei",0,0
+"65",0.876202760614,"Clostridium botulinum_Clostridium chauvoei",0,0
+"66",0.833375123293,"Clostridium butyricum_Clostridium chauvoei",0,0
+"67",0.650785334541,"Clostridium cellulovorans_Clostridium chauvoei",0,0
+"68",0.832968081358,"Clostridium argentinense_Clostridium isatidis",0,0
+"69",0.802140804625,"Clostridium beijerinckii_Clostridium isatidis",0,0
+"70",0.733045180688,"Clostridium bornimense_Clostridium isatidis",0,0
+"71",0.888487865457,"Clostridium botulinum_Clostridium isatidis",0,0
+"72",0.876888199625,"Clostridium butyricum_Clostridium isatidis",0,0
+"73",0.722526871669,"Clostridium cellulovorans_Clostridium isatidis",0,0
+"74",0.88442114387,"Clostridium chauvoei_Clostridium isatidis",0,0
+"75",0.8790548494,"Clostridium argentinense_Clostridium novyi",0,0
+"76",0.828662586513,"Clostridium beijerinckii_Clostridium novyi",0,0
+"77",0.758444051364,"Clostridium bornimense_Clostridium novyi",0,0
+"78",0.886835377904,"Clostridium botulinum_Clostridium novyi",0,0
+"79",0.845156763998,"Clostridium butyricum_Clostridium novyi",0,0
+"80",0.794384966503,"Clostridium cellulovorans_Clostridium novyi",0,0
+"81",0.760800741578,"Clostridium chauvoei_Clostridium novyi",0,0
+"82",0.840964733541,"Clostridium isatidis_Clostridium novyi",0,0
+"83",0.791858161887,"Clostridium argentinense_Clostridium pasteurianum",0,0
+"84",0.859354200201,"Clostridium beijerinckii_Clostridium pasteurianum",0,0
+"85",0.734700011382,"Clostridium bornimense_Clostridium pasteurianum",0,0
+"86",0.869831375605,"Clostridium botulinum_Clostridium pasteurianum",0,0
+"87",0.819808170821,"Clostridium butyricum_Clostridium pasteurianum",0,0
+"88",0.828364706207,"Clostridium cellulovorans_Clostridium pasteurianum",0,0
+"89",0.712154158038,"Clostridium chauvoei_Clostridium pasteurianum",0,0
+"90",0.756598937979,"Clostridium isatidis_Clostridium pasteurianum",0,0
+"91",0.823150592003,"Clostridium novyi_Clostridium pasteurianum",0,0
+"92",0.821587265903,"Clostridium argentinense_Clostridium saccharobutylicum",0,0
+"93",0.846563290422,"Clostridium beijerinckii_Clostridium saccharobutylicum",0,0
+"94",0.758521452984,"Clostridium bornimense_Clostridium saccharobutylicum",0,0
+"95",0.912765198359,"Clostridium botulinum_Clostridium saccharobutylicum",0,0
+"96",0.889007707695,"Clostridium butyricum_Clostridium saccharobutylicum",0,0
+"97",0.775154967325,"Clostridium cellulovorans_Clostridium saccharobutylicum",0,0
+"98",0.885958100829,"Clostridium chauvoei_Clostridium saccharobutylicum",0,0
+"99",0.900388771812,"Clostridium isatidis_Clostridium saccharobutylicum",0,0
+"100",0.821510237405,"Clostridium novyi_Clostridium saccharobutylicum",0,0
+"101",0.82037697194,"Clostridium pasteurianum_Clostridium saccharobutylicum",0,0
+"102",0.842354045478,"Clostridium argentinense_Clostridium saccharoperbutylacetonicum",0,0
+"103",0.890568334213,"Clostridium beijerinckii_Clostridium saccharoperbutylacetonicum",0,0
+"104",0.815144491246,"Clostridium bornimense_Clostridium saccharoperbutylacetonicum",0,0
+"105",0.928760485681,"Clostridium botulinum_Clostridium saccharoperbutylacetonicum",0,0
+"106",0.92277513262,"Clostridium butyricum_Clostridium saccharoperbutylacetonicum",0,0
+"107",0.807828343546,"Clostridium cellulovorans_Clostridium saccharoperbutylacetonicum",0,0
+"108",0.850887040769,"Clostridium chauvoei_Clostridium saccharoperbutylacetonicum",0,0
+"109",0.856404324926,"Clostridium isatidis_Clostridium saccharoperbutylacetonicum",0,0
+"110",0.870741239484,"Clostridium novyi_Clostridium saccharoperbutylacetonicum",0,0
+"111",0.859118237592,"Clostridium pasteurianum_Clostridium saccharoperbutylacetonicum",0,0
+"112",0.918480570684,"Clostridium saccharobutylicum_Clostridium saccharoperbutylacetonicum",0,0
+"113",0.798909442461,"Clostridium argentinense_Clostridium septicum",0,0
+"114",0.785530757354,"Clostridium beijerinckii_Clostridium septicum",0,0
+"115",0.757630781485,"Clostridium bornimense_Clostridium septicum",0,0
+"116",0.868073312842,"Clostridium botulinum_Clostridium septicum",0,0
+"117",0.779297090848,"Clostridium butyricum_Clostridium septicum",0,0
+"118",0.720636475244,"Clostridium cellulovorans_Clostridium septicum",0,0
+"119",0.924637785206,"Clostridium chauvoei_Clostridium septicum",0,0
+"120",0.898112833608,"Clostridium isatidis_Clostridium septicum",0,0
+"121",0.740121105424,"Clostridium novyi_Clostridium septicum",0,0
+"122",0.670284884051,"Clostridium pasteurianum_Clostridium septicum",0,0
+"123",0.833799256526,"Clostridium saccharobutylicum_Clostridium septicum",0,0
+"124",0.790309492093,"Clostridium saccharoperbutylacetonicum_Clostridium septicum",0,0
+"125",0.579151979762,"Clostridium cellulovorans_Clostridium sp. BNL1100",0,0
+"126",0.504459357052,"Clostridium novyi_Clostridium sp. BNL1100",0,0
+"127",0.846950439973,"Clostridium argentinense_Clostridium sp. CT4",0,0
+"128",0.790137287617,"Clostridium beijerinckii_Clostridium sp. CT4",0,0
+"129",0.702930023112,"Clostridium bornimense_Clostridium sp. CT4",0,0
+"130",0.845567352477,"Clostridium botulinum_Clostridium sp. CT4",0,0
+"131",0.847742922741,"Clostridium butyricum_Clostridium sp. CT4",0,0
+"132",0.691304676441,"Clostridium cellulovorans_Clostridium sp. CT4",0,0
+"133",0.87403197516,"Clostridium chauvoei_Clostridium sp. CT4",0,0
+"134",0.871681386806,"Clostridium isatidis_Clostridium sp. CT4",0,0
+"135",0.799415190622,"Clostridium novyi_Clostridium sp. CT4",0,0
+"136",0.715149295586,"Clostridium pasteurianum_Clostridium sp. CT4",0,0
+"137",0.831265398295,"Clostridium saccharobutylicum_Clostridium sp. CT4",0,0
+"138",0.834030180478,"Clostridium saccharoperbutylacetonicum_Clostridium sp. CT4",0,0
+"139",0.852780530516,"Clostridium septicum_Clostridium sp. CT4",0,0
+"140",0.830138973287,"Clostridium argentinense_Clostridium sp. DL-VIII",0,0
+"141",0.881971989513,"Clostridium beijerinckii_Clostridium sp. DL-VIII",0,0
+"142",0.781766650085,"Clostridium bornimense_Clostridium sp. DL-VIII",0,0
+"143",0.926481735318,"Clostridium botulinum_Clostridium sp. DL-VIII",0,0
+"144",0.938539149804,"Clostridium butyricum_Clostridium sp. DL-VIII",0,0
+"145",0.820031444477,"Clostridium cellulovorans_Clostridium sp. DL-VIII",0,0
+"146",0.798673571961,"Clostridium chauvoei_Clostridium sp. DL-VIII",0,0
+"147",0.829539107205,"Clostridium isatidis_Clostridium sp. DL-VIII",0,0
+"148",0.850109836264,"Clostridium novyi_Clostridium sp. DL-VIII",0,0
+"149",0.84595652725,"Clostridium pasteurianum_Clostridium sp. DL-VIII",0,0
+"150",0.876566149808,"Clostridium saccharobutylicum_Clostridium sp. DL-VIII",0,0
+"151",0.936011141443,"Clostridium saccharoperbutylacetonicum_Clostridium sp. DL-VIII",0,0
+"152",0.784131612976,"Clostridium septicum_Clostridium sp. DL-VIII",0,0
+"153",0.81961662678,"Clostridium sp. CT4_Clostridium sp. DL-VIII",0,0
+"154",0.617132693785,"Atopobium parvulum_Mogibacterium diversum",0,0
+"155",0.698740366822,"Lactobacillus ruminis_[Eubacterium] cellulosolvens",0,0
+"156",0.549287506231,"Clostridium sp. BNL1100_[Eubacterium] cellulosolvens",0,0
+"157",0.599982161816,"Clostridium argentinense_Hungateiclostridium clariflavum",0,0
+"158",0.587628165112,"Clostridium beijerinckii_Hungateiclostridium clariflavum",0,0
+"159",0.552439524235,"Clostridium bornimense_Hungateiclostridium clariflavum",0,0
+"160",0.551740918983,"Clostridium botulinum_Hungateiclostridium clariflavum",0,0
+"161",0.546120459197,"Clostridium butyricum_Hungateiclostridium clariflavum",0,0
+"162",0.604861080179,"Clostridium cellulovorans_Hungateiclostridium clariflavum",0,0
+"163",0.631575568532,"Clostridium novyi_Hungateiclostridium clariflavum",0,0
+"164",0.620662001563,"Clostridium pasteurianum_Hungateiclostridium clariflavum",0,0
+"165",0.575728518968,"Clostridium saccharobutylicum_Hungateiclostridium clariflavum",0,0
+"166",0.567443191269,"Clostridium saccharoperbutylacetonicum_Hungateiclostridium clariflavum",0,0
+"167",0.717676965134,"Clostridium sp. BNL1100_Hungateiclostridium clariflavum",0,0
+"168",0.643556313843,"Clostridium sp. CT4_Hungateiclostridium clariflavum",0,0
+"169",0.595010437312,"Clostridium sp. DL-VIII_Hungateiclostridium clariflavum",0,0
+"170",0.582367124356,"[Eubacterium] cellulosolvens_Hungateiclostridium clariflavum",0,0
+"171",0.666156032636,"Lactobacillus ruminis_Anaerobutyricum hallii",0,0
+"172",0.537992416304,"Clostridium pasteurianum_Anaerobutyricum hallii",0,0
+"173",0.536183016773,"Clostridium sp. BNL1100_Anaerobutyricum hallii",0,0
+"174",0.714439663806,"[Eubacterium] cellulosolvens_Anaerobutyricum hallii",0,0
+"175",0.575861873209,"Lactobacillus ruminis_Anaerocolumna sp. CBA3638",0,0
+"176",0.512358873352,"Clostridium beijerinckii_Anaerocolumna sp. CBA3638",0,0
+"177",0.506381700885,"Clostridium pasteurianum_Anaerocolumna sp. CBA3638",0,0
+"178",0.51323947321,"Clostridium saccharobutylicum_Anaerocolumna sp. CBA3638",0,0
+"179",0.583233274462,"Clostridium saccharoperbutylacetonicum_Anaerocolumna sp. CBA3638",0,0
+"180",0.666629600941,"Clostridium sp. BNL1100_Anaerocolumna sp. CBA3638",0,0
+"181",0.54127505839,"Clostridium sp. DL-VIII_Anaerocolumna sp. CBA3638",0,0
+"182",0.859838382812,"[Eubacterium] cellulosolvens_Anaerocolumna sp. CBA3638",0,0
+"183",0.646627817386,"Hungateiclostridium clariflavum_Anaerocolumna sp. CBA3638",0,0
+"184",0.678380134909,"Anaerobutyricum hallii_Anaerocolumna sp. CBA3638",0,0
+"185",0.538691168977,"[Eubacterium] cellulosolvens_Anaerostipes hadrus",0,0
+"186",0.768390286883,"Anaerobutyricum hallii_Anaerostipes hadrus",0,0
+"187",0.55478648819,"Anaerocolumna sp. CBA3638_Anaerostipes hadrus",0,0
+"188",0.586395813565,"Enterococcus faecium_Blautia producta",0,0
+"189",0.505510773786,"[Eubacterium] cellulosolvens_Blautia producta",0,0
+"190",0.526041726629,"Anaerobutyricum hallii_Blautia producta",0,0
+"191",0.582050041884,"Anaerocolumna sp. CBA3638_Blautia producta",0,0
+"192",0.714541006326,"[Eubacterium] cellulosolvens_Blautia sp. SC05B48",0,0
+"193",0.778582515298,"Anaerobutyricum hallii_Blautia sp. SC05B48",0,0
+"194",0.653263864393,"Anaerocolumna sp. CBA3638_Blautia sp. SC05B48",0,0
+"195",0.648602684846,"Anaerostipes hadrus_Blautia sp. SC05B48",0,0
+"196",0.521289648432,"Blautia producta_Blautia sp. SC05B48",0,0
+"197",0.694647820359,"Lactobacillus ruminis_Butyrivibrio fibrisolvens",0,0
+"198",0.507696444594,"Clostridium cellulovorans_Butyrivibrio fibrisolvens",0,0
+"199",0.630226668365,"Clostridium sp. BNL1100_Butyrivibrio fibrisolvens",0,0
+"200",0.887273354447,"[Eubacterium] cellulosolvens_Butyrivibrio fibrisolvens",0,0
+"201",0.692347726128,"Hungateiclostridium clariflavum_Butyrivibrio fibrisolvens",0,0
+"202",0.654306310344,"Anaerobutyricum hallii_Butyrivibrio fibrisolvens",0,0
+"203",0.876923017726,"Anaerocolumna sp. CBA3638_Butyrivibrio fibrisolvens",0,0
+"204",0.60779711363,"Blautia sp. SC05B48_Butyrivibrio fibrisolvens",0,0
+"205",0.676573740424,"Lactobacillus ruminis_Butyrivibrio hungatei",0,0
+"206",0.511418313995,"Clostridium cellulovorans_Butyrivibrio hungatei",0,0
+"207",0.535710920467,"Clostridium pasteurianum_Butyrivibrio hungatei",0,0
+"208",0.662926187733,"Clostridium sp. BNL1100_Butyrivibrio hungatei",0,0
+"209",0.814942138294,"[Eubacterium] cellulosolvens_Butyrivibrio hungatei",0,0
+"210",0.690086953381,"Hungateiclostridium clariflavum_Butyrivibrio hungatei",0,0
+"211",0.653563682835,"Anaerobutyricum hallii_Butyrivibrio hungatei",0,0
+"212",0.860671703381,"Anaerocolumna sp. CBA3638_Butyrivibrio hungatei",0,0
+"213",0.545508484531,"Anaerostipes hadrus_Butyrivibrio hungatei",0,0
+"214",0.591821872471,"Blautia sp. SC05B48_Butyrivibrio hungatei",0,0
+"215",0.961118169441,"Butyrivibrio fibrisolvens_Butyrivibrio hungatei",0,0
+"216",0.699363418513,"Lactobacillus ruminis_Butyrivibrio proteoclasticus",0,0
+"217",0.51967651159,"Clostridium cellulovorans_Butyrivibrio proteoclasticus",0,0
+"218",0.524115909971,"Clostridium pasteurianum_Butyrivibrio proteoclasticus",0,0
+"219",0.673652978385,"Clostridium sp. BNL1100_Butyrivibrio proteoclasticus",0,0
+"220",0.842717004278,"[Eubacterium] cellulosolvens_Butyrivibrio proteoclasticus",0,0
+"221",0.705071506403,"Hungateiclostridium clariflavum_Butyrivibrio proteoclasticus",0,0
+"222",0.632546704696,"Anaerobutyricum hallii_Butyrivibrio proteoclasticus",0,0
+"223",0.862799651576,"Anaerocolumna sp. CBA3638_Butyrivibrio proteoclasticus",0,0
+"224",0.501709571594,"Anaerostipes hadrus_Butyrivibrio proteoclasticus",0,0
+"225",0.60798515253,"Blautia sp. SC05B48_Butyrivibrio proteoclasticus",0,0
+"226",0.958149924585,"Butyrivibrio fibrisolvens_Butyrivibrio proteoclasticus",0,0
+"227",0.972017475873,"Butyrivibrio hungatei_Butyrivibrio proteoclasticus",0,0
+"228",0.61079077861,"Lactobacillus ruminis_Herbinix luporum",0,0
+"229",0.516720503319,"Clostridium beijerinckii_Herbinix luporum",0,0
+"230",0.528509683404,"Clostridium cellulovorans_Herbinix luporum",0,0
+"231",0.609191634389,"Clostridium pasteurianum_Herbinix luporum",0,0
+"232",0.562059339287,"Clostridium saccharoperbutylacetonicum_Herbinix luporum",0,0
+"233",0.645577285768,"Clostridium sp. BNL1100_Herbinix luporum",0,0
+"234",0.538937726038,"Clostridium sp. DL-VIII_Herbinix luporum",0,0
+"235",0.793232936465,"[Eubacterium] cellulosolvens_Herbinix luporum",0,0
+"236",0.680144735244,"Hungateiclostridium clariflavum_Herbinix luporum",0,0
+"237",0.639432192401,"Anaerobutyricum hallii_Herbinix luporum",0,0
+"238",0.90865067525,"Anaerocolumna sp. CBA3638_Herbinix luporum",0,0
+"239",0.504029130882,"Anaerostipes hadrus_Herbinix luporum",0,0
+"240",0.630769710252,"Blautia sp. SC05B48_Herbinix luporum",0,0
+"241",0.863183533943,"Butyrivibrio fibrisolvens_Herbinix luporum",0,0
+"242",0.914447254535,"Butyrivibrio hungatei_Herbinix luporum",0,0
+"243",0.906746756987,"Butyrivibrio proteoclasticus_Herbinix luporum",0,0
+"244",0.504513931823,"Lactobacillus ruminis_Lachnoanaerobaculum umeaense",0,0
+"245",0.526317944789,"Clostridium beijerinckii_Lachnoanaerobaculum umeaense",0,0
+"246",0.529036172175,"Clostridium cellulovorans_Lachnoanaerobaculum umeaense",0,0
+"247",0.533057419428,"Clostridium pasteurianum_Lachnoanaerobaculum umeaense",0,0
+"248",0.508500152544,"Clostridium saccharobutylicum_Lachnoanaerobaculum umeaense",0,0
+"249",0.559270542527,"Clostridium saccharoperbutylacetonicum_Lachnoanaerobaculum umeaense",0,0
+"250",0.560209864041,"Clostridium sp. BNL1100_Lachnoanaerobaculum umeaense",0,0
+"251",0.745039959559,"[Eubacterium] cellulosolvens_Lachnoanaerobaculum umeaense",0,0
+"252",0.565571522437,"Hungateiclostridium clariflavum_Lachnoanaerobaculum umeaense",0,0
+"253",0.683440093799,"Anaerobutyricum hallii_Lachnoanaerobaculum umeaense",0,0
+"254",0.854745877134,"Anaerocolumna sp. CBA3638_Lachnoanaerobaculum umeaense",0,0
+"255",0.58278951638,"Anaerostipes hadrus_Lachnoanaerobaculum umeaense",0,0
+"256",0.52059889478,"Blautia producta_Lachnoanaerobaculum umeaense",0,0
+"257",0.651757083102,"Blautia sp. SC05B48_Lachnoanaerobaculum umeaense",0,0
+"258",0.823886258226,"Butyrivibrio fibrisolvens_Lachnoanaerobaculum umeaense",0,0
+"259",0.847429125825,"Butyrivibrio hungatei_Lachnoanaerobaculum umeaense",0,0
+"260",0.811104999695,"Butyrivibrio proteoclasticus_Lachnoanaerobaculum umeaense",0,0
+"261",0.823766174137,"Herbinix luporum_Lachnoanaerobaculum umeaense",0,0
+"262",0.654548343394,"Lactobacillus ruminis_Lachnoclostridium phytofermentans",0,0
+"263",0.617752249562,"Clostridium beijerinckii_Lachnoclostridium phytofermentans",0,0
+"264",0.594878786846,"Clostridium butyricum_Lachnoclostridium phytofermentans",0,0
+"265",0.575550608142,"Clostridium cellulovorans_Lachnoclostridium phytofermentans",0,0
+"266",0.597673939369,"Clostridium pasteurianum_Lachnoclostridium phytofermentans",0,0
+"267",0.550585326971,"Clostridium saccharobutylicum_Lachnoclostridium phytofermentans",0,0
+"268",0.575635545414,"Clostridium saccharoperbutylacetonicum_Lachnoclostridium phytofermentans",0,0
+"269",0.654946845689,"Clostridium sp. BNL1100_Lachnoclostridium phytofermentans",0,0
+"270",0.595346608213,"Clostridium sp. DL-VIII_Lachnoclostridium phytofermentans",0,0
+"271",0.7909962814,"[Eubacterium] cellulosolvens_Lachnoclostridium phytofermentans",0,0
+"272",0.666861499015,"Hungateiclostridium clariflavum_Lachnoclostridium phytofermentans",0,0
+"273",0.768449340848,"Anaerobutyricum hallii_Lachnoclostridium phytofermentans",0,0
+"274",0.942668453154,"Anaerocolumna sp. CBA3638_Lachnoclostridium phytofermentans",0,0
+"275",0.633003295666,"Anaerostipes hadrus_Lachnoclostridium phytofermentans",0,0
+"276",0.588289759216,"Blautia producta_Lachnoclostridium phytofermentans",0,0
+"277",0.690663814855,"Blautia sp. SC05B48_Lachnoclostridium phytofermentans",0,0
+"278",0.869034746356,"Butyrivibrio fibrisolvens_Lachnoclostridium phytofermentans",0,0
+"279",0.914035912271,"Butyrivibrio hungatei_Lachnoclostridium phytofermentans",0,0
+"280",0.875449087476,"Butyrivibrio proteoclasticus_Lachnoclostridium phytofermentans",0,0
+"281",0.929289692276,"Herbinix luporum_Lachnoclostridium phytofermentans",0,0
+"282",0.89618582056,"Lachnoanaerobaculum umeaense_Lachnoclostridium phytofermentans",0,0
+"283",0.630113341581,"Lactobacillus ruminis_Pseudobutyrivibrio xylanivorans",0,0
+"284",0.646962683462,"Clostridium sp. BNL1100_Pseudobutyrivibrio xylanivorans",0,0
+"285",0.843031055945,"[Eubacterium] cellulosolvens_Pseudobutyrivibrio xylanivorans",0,0
+"286",0.520342964708,"[Eubacterium] eligens_Pseudobutyrivibrio xylanivorans",0,0
+"287",0.640732024944,"Hungateiclostridium clariflavum_Pseudobutyrivibrio xylanivorans",0,0
+"288",0.665439714341,"Anaerobutyricum hallii_Pseudobutyrivibrio xylanivorans",0,0
+"289",0.860488609517,"Anaerocolumna sp. CBA3638_Pseudobutyrivibrio xylanivorans",0,0
+"290",0.540951740325,"Anaerostipes hadrus_Pseudobutyrivibrio xylanivorans",0,0
+"291",0.596928949378,"Blautia sp. SC05B48_Pseudobutyrivibrio xylanivorans",0,0
+"292",0.867361373873,"Butyrivibrio fibrisolvens_Pseudobutyrivibrio xylanivorans",0,0
+"293",0.945368029538,"Butyrivibrio hungatei_Pseudobutyrivibrio xylanivorans",0,0
+"294",0.94052276013,"Butyrivibrio proteoclasticus_Pseudobutyrivibrio xylanivorans",0,0
+"295",0.899193552425,"Herbinix luporum_Pseudobutyrivibrio xylanivorans",0,0
+"296",0.842081534984,"Lachnoanaerobaculum umeaense_Pseudobutyrivibrio xylanivorans",0,0
+"297",0.894084706469,"Lachnoclostridium phytofermentans_Pseudobutyrivibrio xylanivorans",0,0
+"298",0.530279034655,"Butyrivibrio fibrisolvens_Roseburia intestinalis",0,0
+"299",0.53655509724,"Butyrivibrio proteoclasticus_Roseburia intestinalis",0,0
+"300",0.588842740307,"Pseudobutyrivibrio xylanivorans_Roseburia intestinalis",0,0
+"301",0.522713745957,"Roseburia hominis_Lachnospiraceae bacterium GAM79",0,0
+"302",0.610634696419,"Lactobacillus ruminis_Lachnospiraceae bacterium KM106-2",0,0
+"303",0.543818754,"Clostridium sp. BNL1100_Lachnospiraceae bacterium KM106-2",0,0
+"304",0.645183973203,"[Eubacterium] cellulosolvens_Lachnospiraceae bacterium KM106-2",0,0
+"305",0.521029726645,"[Eubacterium] eligens_Lachnospiraceae bacterium KM106-2",0,0
+"306",0.540776772604,"Hungateiclostridium clariflavum_Lachnospiraceae bacterium KM106-2",0,0
+"307",0.654138578013,"Anaerobutyricum hallii_Lachnospiraceae bacterium KM106-2",0,0
+"308",0.721587551654,"Anaerocolumna sp. CBA3638_Lachnospiraceae bacterium KM106-2",0,0
+"309",0.527604984014,"Anaerostipes hadrus_Lachnospiraceae bacterium KM106-2",0,0
+"310",0.504734082426,"Blautia sp. SC05B48_Lachnospiraceae bacterium KM106-2",0,0
+"311",0.684292870592,"Butyrivibrio fibrisolvens_Lachnospiraceae bacterium KM106-2",0,0
+"312",0.780944509938,"Butyrivibrio hungatei_Lachnospiraceae bacterium KM106-2",0,0
+"313",0.745824113103,"Butyrivibrio proteoclasticus_Lachnospiraceae bacterium KM106-2",0,0
+"314",0.785854527338,"Herbinix luporum_Lachnospiraceae bacterium KM106-2",0,0
+"315",0.751057824124,"Lachnoanaerobaculum umeaense_Lachnospiraceae bacterium KM106-2",0,0
+"316",0.771120243574,"Lachnoclostridium phytofermentans_Lachnospiraceae bacterium KM106-2",0,0
+"317",0.829782952818,"Pseudobutyrivibrio xylanivorans_Lachnospiraceae bacterium KM106-2",0,0
+"318",0.642896261665,"Roseburia intestinalis_Lachnospiraceae bacterium KM106-2",0,0
+"319",0.710775057295,"Clostridium argentinense_Paraclostridium bifermentans",0,0
+"320",0.741979250345,"Clostridium beijerinckii_Paraclostridium bifermentans",0,0
+"321",0.679972707217,"Clostridium bornimense_Paraclostridium bifermentans",0,0
+"322",0.822883227785,"Clostridium botulinum_Paraclostridium bifermentans",0,0
+"323",0.704265002104,"Clostridium butyricum_Paraclostridium bifermentans",0,0
+"324",0.694657304388,"Clostridium cellulovorans_Paraclostridium bifermentans",0,0
+"325",0.782603902258,"Clostridium chauvoei_Paraclostridium bifermentans",0,0
+"326",0.725518130595,"Clostridium isatidis_Paraclostridium bifermentans",0,0
+"327",0.748673230588,"Clostridium novyi_Paraclostridium bifermentans",0,0
+"328",0.693577592309,"Clostridium pasteurianum_Paraclostridium bifermentans",0,0
+"329",0.7355451343,"Clostridium saccharobutylicum_Paraclostridium bifermentans",0,0
+"330",0.741147730407,"Clostridium saccharoperbutylacetonicum_Paraclostridium bifermentans",0,0
+"331",0.727773291886,"Clostridium septicum_Paraclostridium bifermentans",0,0
+"332",0.681568099082,"Clostridium sp. CT4_Paraclostridium bifermentans",0,0
+"333",0.756032615768,"Clostridium sp. DL-VIII_Paraclostridium bifermentans",0,0
+"334",0.630023607743,"[Clostridium] bolteae_Flavonifractor plautii",0,0
+"335",0.542423686139,"Oscillibacter sp. PEA192_Flavonifractor plautii",0,0
+"336",0.557707790047,"Ruminococcus albus_Ruminococcus bicirculans",0,0
+"337",0.623757927682,"Ruminococcus albus_Ruminococcus sp. JE7A12",0,0
+"338",0.535638777548,"Oscillibacter sp. PEA192_Ruthenibacterium lactatiformans",0,0
+"339",0.631204695917,"Oscillibacter sp. PEA192_Flintibacter sp. KGMB00164",0,0
+"340",0.511810132516,"Alistipes shahii_Intestinimonas butyriciproducens",0,0
+"341",0.726436829723,"Oscillibacter sp. PEA192_Intestinimonas butyriciproducens",0,0
+"342",0.65520147803,"Flintibacter sp. KGMB00164_Intestinimonas butyriciproducens",0,0
+"343",0.786104873621,"Oscillibacter sp. PEA192_Clostridiales bacterium CCNA10",0,0
+"344",0.554754491914,"Flavonifractor plautii_Clostridiales bacterium CCNA10",0,0
+"345",0.576149587276,"Ruthenibacterium lactatiformans_Clostridiales bacterium CCNA10",0,0
+"346",0.719733771016,"Flintibacter sp. KGMB00164_Clostridiales bacterium CCNA10",0,0
+"347",0.655892370512,"Intestinimonas butyriciproducens_Clostridiales bacterium CCNA10",0,0
+"348",0.724708475116,"Gemella morbillorum_Parvimonas micra",0,0
+"349",0.527507655802,"Streptococcus anginosus_Parvimonas micra",0,0
+"350",0.657435619826,"Gemella morbillorum_Fusobacterium nucleatum",0,0
+"351",0.641943435302,"Parvimonas micra_Fusobacterium nucleatum",0,0
+"352",0.508367075991,"Gemella morbillorum_Fusobacterium pseudoperiodonticum",0,0
+"353",0.563441044131,"Fusobacterium nucleatum_Fusobacterium pseudoperiodonticum",0,0
+"354",0.532423005932,"Intestinimonas butyriciproducens_Desulfovibrio desulfuricans",0,0
+"355",0.638804492201,"Desulfovibrio desulfuricans_Desulfovibrio fairfieldensis",0,0
+"356",-0.533453711985,"Clostridium argentinense_Desulfovibrio vulgaris",0,0
+"357",-0.560984344704,"Clostridium beijerinckii_Desulfovibrio vulgaris",0,0
+"358",-0.521779481581,"Clostridium botulinum_Desulfovibrio vulgaris",0,0
+"359",-0.566380783076,"Clostridium butyricum_Desulfovibrio vulgaris",0,0
+"360",-0.535184987569,"Clostridium pasteurianum_Desulfovibrio vulgaris",0,0
+"361",-0.51005097476,"Clostridium saccharobutylicum_Desulfovibrio vulgaris",0,0
+"362",-0.56189485262,"Clostridium saccharoperbutylacetonicum_Desulfovibrio vulgaris",0,0
+"363",-0.584866962439,"Clostridium sp. DL-VIII_Desulfovibrio vulgaris",0,0
+"364",0.502987992175,"Intestinimonas butyriciproducens_Desulfovibrio vulgaris",0,0
+"365",0.691455074218,"Desulfovibrio desulfuricans_Desulfovibrio vulgaris",0,0
+"366",0.734562528273,"Desulfovibrio fairfieldensis_Desulfovibrio vulgaris",0,0
+"367",0.515484959803,"Desulfovibrio piger_Desulfovibrio vulgaris",0,0
+"368",0.535669949661,"Intestinimonas butyriciproducens_Cloacibacillus porcorum",0,0
+"369",0.535984785361,"Cercospora berteroae_Fonsecaea erecta",0,0
+"370",0.59029727868,"Parastagonospora nodorum_Fonsecaea erecta",0,0
+"371",0.640753610692,"Streptococcus equinus_Aspergillus niger",0,0
+"372",0.613887064869,"Streptococcus salivarius_Aspergillus niger",0,0
+"373",0.622228227559,"Streptococcus sp. FDAARGOS_192_Aspergillus niger",0,0
+"374",0.565375613728,"Macrophomina phaseolina_Aspergillus niger",0,0
+"375",0.640761161272,"Sphaerulina musiva_Aspergillus ochraceoroseus",0,0
+"376",0.620797714091,"Sphaerulina musiva_Aspergillus rambellii",0,0
+"377",0.676499799367,"Aspergillus ochraceoroseus_Aspergillus rambellii",0,0
+"378",0.548922021575,"Macrophomina phaseolina_Penicillium brasilianum",0,0
+"379",0.547161952044,"Aspergillus niger_Talaromyces islandicus",0,0
+"380",0.691885271823,"Sphaerulina musiva_Blastomyces parvus",0,0
+"381",0.578045379527,"Aspergillus ochraceoroseus_Blastomyces parvus",0,0
+"382",0.581870651627,"Aspergillus rambellii_Blastomyces parvus",0,0
+"383",0.577656547907,"Bacteroides fragilis_Erysiphe pulchra",0,0
+"384",0.514457070053,"Sphaerulina musiva_Erysiphe pulchra",0,0
+"385",0.507504164679,"Emmonsia sp. CAC-2015a_Erysiphe pulchra",0,0
+"386",0.510101205274,"Erysiphe pulchra_Sclerotinia sclerotiorum",0,0
+"387",0.506428956652,"Bifidobacterium breve_Lipomyces starkeyi",0,0
+"388",0.502600443265,"Bifidobacterium longum_Lipomyces starkeyi",0,0
+"389",0.533127690905,"Aspergillus niger_Saccharomyces cerevisiae",0,0
+"390",0.50190631048,"Dothistroma septosporum_Moniliophthora perniciosa",0,0
+"391",0.52649012576,"Aspergillus clavatus_Moniliophthora perniciosa",0,0
+"392",0.603113769041,"Macrophomina phaseolina_Coniophora puteana",0,0
+"393",0.552522682819,"Cercospora berteroae_Coniophora puteana",0,0
+"394",0.595221825099,"Cladophialophora immunda_Coniophora puteana",0,0
+"395",0.504577522153,"Aspergillus clavatus_Coniophora puteana",0,0
+"396",0.527459862739,"Penicillium brasilianum_Coniophora puteana",0,0
+"397",0.763940468336,"Erysiphe pulchra_Malassezia globosa",0,0
+"398",0.614935637053,"Cladophialophora immunda_Malassezia vespertilionis",0,0
+"399",0.645036734775,"Coniophora puteana_Malassezia vespertilionis",0,0
+"400",0.520036976052,"Aspergillus nomiae_Kwoniella heveanensis",0,0
+"401",-0.547080370361,"Flintibacter sp. KGMB00164_Rhizophagus irregularis",0,0
+"402",-0.552572257988,"Desulfovibrio desulfuricans_Rhizophagus irregularis",0,0
+"403",0.540397164107,"Penicillium brasilianum_Absidia glauca",0,0
+"404",0.658636814697,"Erysiphe pulchra_Absidia glauca",0,0
+"405",0.638151500732,"Sclerotinia sclerotiorum_Rhizopus microsporus",0,0
+"406",0.715965674757,"Rhizophagus irregularis_Rhizopus microsporus",0,0
+"407",0.557702744031,"Absidia glauca_Rhizopus microsporus",0,0
