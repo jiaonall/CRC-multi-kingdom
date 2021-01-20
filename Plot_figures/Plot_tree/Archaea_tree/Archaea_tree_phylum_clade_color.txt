@@ -1,0 +1,8 @@
+TREE_COLORS
+SEPARATOR SPACE
+DATA
+Candidatus Korarchaeota clade #307cb1 dashed 1
+Crenarchaeota clade #349c53 dashed 1
+Euryarchaeota clade #6f67a8 normal 1
+Thaumarchaeota clade #da5416
+

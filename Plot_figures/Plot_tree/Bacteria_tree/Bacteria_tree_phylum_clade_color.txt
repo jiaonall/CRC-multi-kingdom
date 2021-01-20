@@ -1,0 +1,11 @@
+TREE_COLORS
+SEPARATOR SPACE
+DATA
+Actinobacteria clade #5B8FF9 dashed 1
+Proteobacteria clade #F6903D dashed 1
+Bacteroidetes clade #61DDAA normal 1
+Firmicutes clade #7262fd normal 1
+Fusobacteria clade #F08BB4 normal 1
+Verrucomicrobia clade #65789B normal 1
+Synergistetes clade #65789B normal 1
+Spirochaetes clade #65789B normal 1

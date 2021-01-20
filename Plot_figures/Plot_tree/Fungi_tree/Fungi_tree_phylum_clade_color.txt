@@ -1,0 +1,10 @@
+TREE_COLORS
+SEPARATOR SPACE
+DATA
+Ascomycota clade #1d72a9 dashed 1
+Basidiomycota clade #ef7c21 dashed 1
+Chytridiomycota clade #ca2828 normal 1
+Cryptomycota clade #89564b
+Microsporidia clade #ce76ad normal 1
+Mucoromycota clade #9fa0a0 normal 1
+Zoopagomycota clade #b5b62a normal 1
